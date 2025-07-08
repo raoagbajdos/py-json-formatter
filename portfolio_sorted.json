@@ -1,0 +1,173 @@
+{
+    "achievements": [
+        "Employee of the Month - TechCorp Inc. (Q3 2023)",
+        "Open Source Contributor - 50+ contributions to popular repositories",
+        "Speaker at Bay Area JavaScript Meetup (2022)",
+        "Hackathon Winner - SF Tech Challenge 2021"
+    ],
+    "certifications": [
+        {
+            "credentialId": "AWS-SAA-123456",
+            "date": "2023-03",
+            "issuer": "Amazon Web Services",
+            "name": "AWS Certified Solutions Architect"
+        },
+        {
+            "credentialId": "CKA-789012",
+            "date": "2022-08",
+            "issuer": "Cloud Native Computing Foundation",
+            "name": "Certified Kubernetes Administrator"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "gpa": "3.8/4.0",
+            "graduationDate": "2019-05",
+            "institution": "University of Technology",
+            "location": "San Francisco, CA",
+            "relevantCourses": [
+                "Data Structures",
+                "Algorithms",
+                "Database Systems",
+                "Software Engineering"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": "TechCorp Inc.",
+            "endDate": "present",
+            "location": "San Francisco, CA",
+            "position": "Senior Full Stack Developer",
+            "responsibilities": [
+                "Led development of microservices architecture serving 1M+ users",
+                "Implemented CI/CD pipelines reducing deployment time by 60%",
+                "Mentored 3 junior developers and conducted code reviews",
+                "Collaborated with product team to define technical requirements"
+            ],
+            "startDate": "2022-01",
+            "technologies": [
+                "React",
+                "Node.js",
+                "AWS",
+                "PostgreSQL",
+                "Docker"
+            ]
+        },
+        {
+            "company": "StartupXYZ",
+            "endDate": "2021-12",
+            "location": "Remote",
+            "position": "Full Stack Developer",
+            "responsibilities": [
+                "Built responsive web applications from concept to deployment",
+                "Integrated third-party APIs and payment processing systems",
+                "Optimized database queries improving application performance by 40%",
+                "Participated in agile development and sprint planning"
+            ],
+            "startDate": "2020-03",
+            "technologies": [
+                "Vue.js",
+                "Python",
+                "Django",
+                "MySQL",
+                "Redis"
+            ]
+        }
+    ],
+    "personal": {
+        "email": "john.doe@email.com",
+        "location": {
+            "city": "San Francisco",
+            "country": "USA",
+            "state": "CA"
+        },
+        "name": "John Doe",
+        "phone": "+1-555-0123",
+        "social": {
+            "github": "https://github.com/johndoe",
+            "linkedin": "https://linkedin.com/in/johndoe",
+            "website": "https://johndoe.dev"
+        },
+        "title": "Full Stack Developer"
+    },
+    "projects": [
+        {
+            "description": "Full-featured e-commerce platform with real-time inventory management",
+            "features": [
+                "User authentication",
+                "Product catalog",
+                "Shopping cart",
+                "Payment processing",
+                "Admin dashboard"
+            ],
+            "githubUrl": "https://github.com/johndoe/ecommerce-platform",
+            "liveUrl": "https://ecommerce.johndoe.dev",
+            "name": "E-commerce Platform",
+            "technologies": [
+                "React",
+                "Node.js",
+                "Stripe",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "description": "Collaborative task management application with real-time updates",
+            "features": [
+                "Real-time collaboration",
+                "Drag & drop interface",
+                "Team management",
+                "Progress tracking"
+            ],
+            "githubUrl": "https://github.com/johndoe/task-manager",
+            "name": "Task Management App",
+            "technologies": [
+                "Vue.js",
+                "Socket.io",
+                "MongoDB",
+                "Express"
+            ]
+        }
+    ],
+    "skills": {
+        "backend": [
+            "Node.js",
+            "Express",
+            "Django",
+            "Spring Boot",
+            "PostgreSQL",
+            "MongoDB"
+        ],
+        "cloud": [
+            "AWS",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "frontend": [
+            "React",
+            "Vue.js",
+            "Angular",
+            "HTML5",
+            "CSS3",
+            "Sass"
+        ],
+        "languages": [
+            "JavaScript",
+            "Python",
+            "TypeScript",
+            "Java",
+            "Go"
+        ],
+        "tools": [
+            "Git",
+            "Jenkins",
+            "Jest",
+            "Webpack",
+            "VS Code"
+        ]
+    },
+    "summary": "Passionate full-stack developer with 5+ years of experience building scalable web applications. Expertise in modern JavaScript frameworks, cloud technologies, and agile development practices."
+}

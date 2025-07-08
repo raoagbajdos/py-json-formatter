@@ -1,0 +1,173 @@
+{
+    "personal": {
+        "name": "John Doe",
+        "title": "Full Stack Developer",
+        "email": "john.doe@email.com",
+        "phone": "+1-555-0123",
+        "location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+        },
+        "social": {
+            "github": "https://github.com/johndoe",
+            "linkedin": "https://linkedin.com/in/johndoe",
+            "website": "https://johndoe.dev"
+        }
+    },
+    "summary": "Passionate full-stack developer with 5+ years of experience building scalable web applications. Expertise in modern JavaScript frameworks, cloud technologies, and agile development practices.",
+    "skills": {
+        "languages": [
+            "JavaScript",
+            "Python",
+            "TypeScript",
+            "Java",
+            "Go"
+        ],
+        "frontend": [
+            "React",
+            "Vue.js",
+            "Angular",
+            "HTML5",
+            "CSS3",
+            "Sass"
+        ],
+        "backend": [
+            "Node.js",
+            "Express",
+            "Django",
+            "Spring Boot",
+            "PostgreSQL",
+            "MongoDB"
+        ],
+        "cloud": [
+            "AWS",
+            "Azure",
+            "Docker",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "tools": [
+            "Git",
+            "Jenkins",
+            "Jest",
+            "Webpack",
+            "VS Code"
+        ]
+    },
+    "experience": [
+        {
+            "company": "TechCorp Inc.",
+            "position": "Senior Full Stack Developer",
+            "location": "San Francisco, CA",
+            "startDate": "2022-01",
+            "endDate": "present",
+            "responsibilities": [
+                "Led development of microservices architecture serving 1M+ users",
+                "Implemented CI/CD pipelines reducing deployment time by 60%",
+                "Mentored 3 junior developers and conducted code reviews",
+                "Collaborated with product team to define technical requirements"
+            ],
+            "technologies": [
+                "React",
+                "Node.js",
+                "AWS",
+                "PostgreSQL",
+                "Docker"
+            ]
+        },
+        {
+            "company": "StartupXYZ",
+            "position": "Full Stack Developer",
+            "location": "Remote",
+            "startDate": "2020-03",
+            "endDate": "2021-12",
+            "responsibilities": [
+                "Built responsive web applications from concept to deployment",
+                "Integrated third-party APIs and payment processing systems",
+                "Optimized database queries improving application performance by 40%",
+                "Participated in agile development and sprint planning"
+            ],
+            "technologies": [
+                "Vue.js",
+                "Python",
+                "Django",
+                "MySQL",
+                "Redis"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "E-commerce Platform",
+            "description": "Full-featured e-commerce platform with real-time inventory management",
+            "githubUrl": "https://github.com/johndoe/ecommerce-platform",
+            "liveUrl": "https://ecommerce.johndoe.dev",
+            "technologies": [
+                "React",
+                "Node.js",
+                "Stripe",
+                "PostgreSQL"
+            ],
+            "features": [
+                "User authentication",
+                "Product catalog",
+                "Shopping cart",
+                "Payment processing",
+                "Admin dashboard"
+            ]
+        },
+        {
+            "name": "Task Management App",
+            "description": "Collaborative task management application with real-time updates",
+            "githubUrl": "https://github.com/johndoe/task-manager",
+            "technologies": [
+                "Vue.js",
+                "Socket.io",
+                "MongoDB",
+                "Express"
+            ],
+            "features": [
+                "Real-time collaboration",
+                "Drag & drop interface",
+                "Team management",
+                "Progress tracking"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Technology",
+            "degree": "Bachelor of Science in Computer Science",
+            "location": "San Francisco, CA",
+            "graduationDate": "2019-05",
+            "gpa": "3.8/4.0",
+            "relevantCourses": [
+                "Data Structures",
+                "Algorithms",
+                "Database Systems",
+                "Software Engineering"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AWS Certified Solutions Architect",
+            "issuer": "Amazon Web Services",
+            "date": "2023-03",
+            "credentialId": "AWS-SAA-123456"
+        },
+        {
+            "name": "Certified Kubernetes Administrator",
+            "issuer": "Cloud Native Computing Foundation",
+            "date": "2022-08",
+            "credentialId": "CKA-789012"
+        }
+    ],
+    "achievements": [
+        "Employee of the Month - TechCorp Inc. (Q3 2023)",
+        "Open Source Contributor - 50+ contributions to popular repositories",
+        "Speaker at Bay Area JavaScript Meetup (2022)",
+        "Hackathon Winner - SF Tech Challenge 2021"
+    ]
+}
